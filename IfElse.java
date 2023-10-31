@@ -8,10 +8,10 @@ public class IfElse {
         } else {
             System.out.println("age 30 not allow to do vote");
         }
-        int Age = 10;
+        int Age = 15;
         if (age<=18) {
-            System.out.print("age 10 allow to do vote");
+            System.out.print("age 15 allow to do vote");
         } else {
-            System.out.print("age 10 not allow todo vote");
+            System.out.print("age 15 not allow todo vote");
         }
     }}
